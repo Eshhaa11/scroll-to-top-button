@@ -5,5 +5,5 @@ body {
 .scroll-to-top{
     position: fixed;
     width: 48px;
-    
+    height: 48px;
 }
