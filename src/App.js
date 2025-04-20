@@ -1,4 +1,4 @@
-import react from "react";
+
 import Scroll from "./Components/Scroll";
 
 function App() {
