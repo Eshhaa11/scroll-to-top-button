@@ -7,4 +7,5 @@ body {
     width: 48px;
     height: 48px;
     font-size: 26px;
+    cursor: pointer;
 }
