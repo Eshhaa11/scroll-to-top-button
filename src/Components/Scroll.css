@@ -1,17 +1,53 @@
-body {
-    background-color: #735DA5;
-}
 
-.scroll-to-top{
+.app-container {
+    background-color: #735DA5; 
+    min-height: 100vh;
+    color: #fff;
+    padding-bottom: 100px; 
+    font-family: sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+ 
+  .fact-list {
+    padding: 20px;
+    margin-top: 10px;
+    width: 600px;
+    text-align: center;
+    position: relative;
+    right: -450px;
+  }
+  
+  .fact-item {
+    background-color: #D3C5E5;  
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+  
+  }
+  
+  
+  .scroll-to-top {
     position: fixed;
-    width: 48px;
-    height: 48px;
     font-size: 26px;
     cursor: pointer;
-    bottom: 40px;
-    right: 40px;
-    background: #D3C5E5;
-    color: aliceblue;
-    border: none;
-    border-radius: 50%;
-}
+    bottom: 10px;
+    right: 700px;
+    background: #D3C5E5;  
+    color: black;
+    border: none; 
+    border-radius: 40px;
+    
+   
+  }
+  
+  .scroll-to-top:hover {
+    background-color: #735DA5;  
+    color: #fff;
+   
+  }
+  
