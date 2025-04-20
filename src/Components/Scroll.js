@@ -18,5 +18,11 @@ function Scroll () {
           });
         };
 
-    useEffect(() => )
+    useEffect(() =>{
+        window.addEventListener("scroll", toggleVisibility);
+    }
+
+    
+    
+    )
 }
