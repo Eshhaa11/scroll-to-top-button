@@ -20,7 +20,7 @@ A simple and functional **scroll-to-top button** built using React. This button 
 
 ---
 
-## 🚀 Live Demo
+![alt text](image.png)## 🚀 Live Demo
 To see it in action, clone the repository and follow the setup instructions below.
 
 1. **Clone the repository:**
@@ -49,7 +49,7 @@ To see it in action, clone the repository and follow the setup instructions belo
 
  ## 🎨 Screenshots:
  ![App Screenshot](src/assets/image.png)
- ![App Screenshot](src/assets/imagee.png.png)
+
 
  ---
 
