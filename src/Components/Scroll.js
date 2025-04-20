@@ -7,7 +7,9 @@ function Scroll () {
         if (window.scrollY > 200) {
             setVisible(true);
          } else {
+           setVisible(false);
+}
+    };
 
-            }
-    }
+    const scrollToTop = () => {
 }
