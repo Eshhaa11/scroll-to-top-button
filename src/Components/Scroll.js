@@ -22,7 +22,15 @@ function Scroll () {
         window.addEventListener("scroll", toggleVisibility);
         return () => window.removeEventListener("scroll", toggleVisibility);
   }, []);
-    }
 
+  return (
+    visible && (
+      <button className="scroll-to-top" onClick={scrollToTop}>
+        ⬆️
+      </button>
+    )
+  );
+};
+    
     
     
