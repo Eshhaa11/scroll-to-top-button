@@ -4,4 +4,6 @@ body {
 
 .scroll-to-top{
     position: fixed;
+    width: 48px;
+    
 }
