@@ -3,5 +3,5 @@ body {
 }
 
 .scroll-to-top{
-    
+    position: fixed;
 }
