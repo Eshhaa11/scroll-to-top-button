@@ -3,4 +3,7 @@ import "./Scroll.css";
 
 function Scroll () {
     const [visible, setVisible] = useState(false)
+    const toggleVisibility = () => {
+        
+    }
 }
