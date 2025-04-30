@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/scroll.jpg)
+
 # ⬆️ Scroll-to-Top Button (React)
 
 A simple and functional **scroll-to-top button** built using React. This button becomes visible when you scroll down and allows you to smoothly scroll back to the top of the page.
